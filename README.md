@@ -1,3 +1,3 @@
 # RETAIN
 
-RETAIN model impletation
+RETAIN model implementation
